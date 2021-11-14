@@ -19,6 +19,8 @@ Link to privacy policy of third party service providers used by the app
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 *   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
 *   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+*   [Razorpay](https://razorpay.com/privacy/)
+*   [Twilio SendGrid](https://www.twilio.com/legal/privacy)
 
 **Log Data**
 
